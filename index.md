@@ -2,10 +2,11 @@
 
 
 ## Contact Information
-- personal email: agnes.linkharrington@gmail.com
-- school email: agnes.link-harrington@colorado.edu
-- [linkedin](https://www.linkedin.com/in/agnes-link-harrington-016bb992/)
-- [github](agneslh.github.io)
+- Personal email: agnes.linkharrington@gmail.com
+- School email: agnes.link-harrington@colorado.edu
+- [LinkedIn](https://www.linkedin.com/in/agnes-link-harrington-016bb992/)
+- [GitHub](agneslh.github.io)
+  
 ## Education and Professional Experience
 I am a environmental geoscientist focused on emerging contaminants in groundwater and soil. For the past 6 years I have worked in environmental consulting specializing in PFAS contamintion. I have a masters in environmental geoscience and a bachelors in geological science and math. 
 ## About Me
