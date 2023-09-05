@@ -1,4 +1,3 @@
-# Agnes Link-Harrington
 ![IMG_0013](https://github.com/agneslh/agneslh.github.io/assets/143624928/d14b0b10-ec4c-44ca-b425-8e74c31d6ecb)
 
 
